@@ -1,0 +1,188 @@
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+.service-section{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+.number{
+  text-align: center;
+  border: 2px solid #408DBF;
+  padding: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: hsl(204, 96%, 30%);
+}
+.number:hover{
+  background: #408DBF;
+  color: aliceblue;
+}
+
+.number-6{
+  text-align: center;
+  border: 2px solid #408DBF;
+  padding: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: hsl(204, 96%, 30%);
+}
+.number-6:hover{
+  background: #408DBF;
+  color: aliceblue;
+}
+
+.sec-1-hide{
+  display: flex;
+}
+
+.sec-1-details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+  margin-left: 10%;
+}
+.paragraph-1{
+  margin-left: -10%;
+}
+.paragraph-1 h2{
+font-size: 25px;
+}
+.paragraph-1 p{
+  color: #9e9a9aec;
+ }
+.img-1{
+  margin-right: -20%;
+}
+
+
+.sec-2-hide{
+  display: none;
+}
+
+.sec-2-details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+  margin-left: 10%;
+}
+.paragraph-2{
+  margin-right: -20%;
+  padding-left: 60px;
+}
+.paragraph-2 h2{
+ font-size: 25px;
+}
+.paragraph-2 p{
+  color: #9e9a9aec;
+ }
+.img-2{
+  margin-left: -30%;
+  width: 30%;
+}
+
+
+.sec-3-hide{
+  display: none;
+}
+
+.sec-3-details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+}
+.paragraph-3{
+  margin-left: -20%;
+  padding-right: 100px;
+}
+.paragraph-3 h2{
+ font-size: 25px;
+}
+.paragraph-3 p{
+  color: #9e9a9aec;
+ }
+.img-3{
+  margin-right: -30%;
+  width: 40%;
+}
+
+
+.sec-4-hide{
+  display: none;
+}
+.sec-4-details{
+  text-align: center;
+  margin-top: 25%;
+}
+.paragraph-4 h2{
+ font-size: 25px;
+}
+.paragraph-4 p{
+  color: #9e9a9aec;
+ }
+.img-4{
+  width: 50%;
+  margin-left: 20%;
+}
+
+
+.sec-5-hide{
+  display: none;
+}
+.sec-5-details{
+  text-align: center;
+  margin-top: 25%;
+}
+.paragraph-5 h2{
+ font-size: 25px;
+}
+.paragraph-5 p{
+  color: #9e9a9aec;
+ }
+.img-5{
+  width: 50%;
+  margin-left: 20%;
+}
+
+
+.sec-6-hide{
+  display: none;
+}
+.sec-6-details{
+  text-align: center;
+  margin-top: 25%;
+  margin-left: 15%;
+  display: flex;
+}
+.paragraph-6 h2{
+ font-size: 25px;
+}
+.paragraph-6 p{
+  color: #9e9a9aec;
+ }
+ .paragraph-6-1 p{
+  color: #9e9a9aec;
+ }
+.paragraph-6-1{
+  margin-right: -20%;
+}
+.paragraph-6-1 h2{
+  font-size: 25px;
+ }
+.img-6{
+  width: 40%;
+  margin-left: 0%;
+  margin-top: -100px;
+}
